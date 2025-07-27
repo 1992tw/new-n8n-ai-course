@@ -1,29 +1,70 @@
-# Assignment 1: Assignment will be generated
+# Assignment 1: Set Up Your First n8n AI Workflow
 
 ## Objective
 
-Objective will be provided when lesson is generated
+Successfully set up and run a basic workflow with n8n AI.
 
 ## Expected Capabilities
 
-Expected capabilities will be defined as the assignment progresses.
+- Install and configure n8n AI
+- Run a basic workflow
+- Troubleshoot initial setup issues
 
 ## Instructions
 
-Instructions will be provided when the assignment is generated.
+### Part 1
+
+**Download and Install n8n AI**
+
+Follow the instructions on the official website to download and install n8n AI on your system.
+
+```
+N/A
+```
+
+**Run n8n AI via Docker**
+
+Use Docker to launch n8n AI and verify that it's accessible via your web browser.
+
+```
+docker run -d --name n8n -p 5678:5678 n8nio/n8n
+```
 
 ## Tasks
 
-Tasks will be defined as the assignment progresses.
+### Task 1: Create a Simple Workflow
+
+Use the n8n visual designer to create a workflow that sends a welcome email to a new user.
+
+```
+N/A
+```
 
 ## Submission Instructions
 
-Submission instructions will be provided when lesson is generated
+Submit a screenshot of your workflow along with its successful execution screen.
 
 ## Checklist
 
-Checklist will be provided when the assignment is generated.
+- [ ] n8n AI Installed
+- [ ] Docker Running
+- [ ] Workflow Created
+- [ ] Email Successfully Sent
 
 ## Check for Understanding
 
-Understanding checks will be provided when the assignment is generated.
+**What is the primary role of Docker in setting up n8n AI?**
+
+- Containerize and run applications
+- Develop mobile apps
+- Manage databases
+
+**Answer:** [Your answer here]
+
+**What is a key advantage of using n8n AI's visual designer?**
+
+- It simplifies workflow creation
+- It speeds up algorithms
+- It manages cloud storage
+
+**Answer:** [Your answer here]
