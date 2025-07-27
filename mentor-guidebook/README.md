@@ -46,11 +46,11 @@
 
 **Tips for Mentors:** [To be filled by mentors based on experience]
 
-### Lesson 4: Applying n8n AI to real-world problems
+### Lesson 4: Applying n8n AI to Real-World Problems
 
 **Key Topics:** Topics will be covered as the lesson progresses.
 
-**Assignment:** Assignment will be generated
+**Assignment:** Design a Simple AI Workflow
 
 **Common Challenges:** [To be filled by mentors based on experience]
 
