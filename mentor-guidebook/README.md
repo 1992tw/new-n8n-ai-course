@@ -20,7 +20,7 @@
 
 **Key Topics:** Topics will be covered as the lesson progresses.
 
-**Assignment:** Assignment will be generated
+**Assignment:** Set Up Your First n8n AI Workflow
 
 **Common Challenges:** [To be filled by mentors based on experience]
 
